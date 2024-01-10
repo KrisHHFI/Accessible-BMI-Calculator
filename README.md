@@ -2,7 +2,9 @@
 
 <img src=""/>
 
-Check out the [demo video](https://www.youtube.com/watch?v=73xIP3oGWug).
+The [demo video](https://www.youtube.com/watch?v=73xIP3oGWug).
+
+The [Playstore Listing](https://play.google.com/store/apps/details?id=com.bmi.newbmi).
 
 ### About
 
