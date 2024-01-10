@@ -1,6 +1,6 @@
 # Accessible-BMI-Calculator
 
-<img src=""/>
+<img src="BMI Calculator.png"/>
 
 The [demo video](https://www.youtube.com/watch?v=73xIP3oGWug).
 
