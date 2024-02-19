@@ -1,10 +1,8 @@
-# Accessible-BMI-Calculator
+# Accessible-BMI-Calculator (Unpublished)
 
 <img src="BMI Calculator.png"/>
 
 The [demo video](https://www.youtube.com/watch?v=73xIP3oGWug).
-
-The [Playstore Listing](https://play.google.com/store/apps/details?id=com.bmi.newbmi).
 
 ### About
 
